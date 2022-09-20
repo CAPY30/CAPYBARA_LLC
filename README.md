@@ -11,10 +11,17 @@ lcode (CoCEO)
 
 Proyectos:
 
+
+
 1-Aquarium Core
+
 Estado: En desarrollo
+
 2-Nuriom Spigot 1.7/1.8.8
+
 Estado: En desarrollo
+
 Y mucho mas...
+
 
 Creado Por @Ultrallama30 (CAPY30) Inspirado Por @AquinoBy02 y su capiGOD
