@@ -21,7 +21,7 @@ Estado: En desarrollo
 
 Estado: En desarrollo
 
-Y mucho mas...
+Y mucho más...
 
 
 Creado Por @Ultrallama30 (CAPY30) Inspirado Por @AquinoBy02 y su capiGOD
